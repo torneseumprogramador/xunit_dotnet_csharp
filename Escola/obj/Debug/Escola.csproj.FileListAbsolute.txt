@@ -1,0 +1,10 @@
+C:\Users\Lamartine\source\repos\Escola\Escola\bin\Debug\Escola.exe.config
+C:\Users\Lamartine\source\repos\Escola\Escola\bin\Debug\Escola.exe
+C:\Users\Lamartine\source\repos\Escola\Escola\bin\Debug\Escola.pdb
+C:\Users\Lamartine\source\repos\Escola\Escola\obj\Debug\Escola.csprojAssemblyReference.cache
+C:\Users\Lamartine\source\repos\Escola\Escola\obj\Debug\Escola.csproj.CoreCompileInputs.cache
+C:\Users\Lamartine\source\repos\Escola\Escola\obj\Debug\Escola.exe
+C:\Users\Lamartine\source\repos\Escola\Escola\obj\Debug\Escola.pdb
+C:\Users\Lamartine\source\repos\Escola\Escola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lamartine\source\repos\Escola\Escola\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lamartine\source\repos\Escola\Escola\obj\Debug\Escola.csproj.CopyComplete

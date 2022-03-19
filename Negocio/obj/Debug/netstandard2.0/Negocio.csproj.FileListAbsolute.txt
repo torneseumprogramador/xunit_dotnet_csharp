@@ -1,0 +1,13 @@
+C:\Users\Lamartine\source\repos\Escola\Negocio\bin\Debug\netstandard2.0\Negocio.deps.json
+C:\Users\Lamartine\source\repos\Escola\Negocio\bin\Debug\netstandard2.0\Negocio.dll
+C:\Users\Lamartine\source\repos\Escola\Negocio\bin\Debug\netstandard2.0\Negocio.pdb
+C:\Users\Lamartine\source\repos\Escola\Negocio\bin\Debug\netstandard2.0\Escola.exe
+C:\Users\Lamartine\source\repos\Escola\Negocio\bin\Debug\netstandard2.0\Escola.pdb
+C:\Users\Lamartine\source\repos\Escola\Negocio\bin\Debug\netstandard2.0\Escola.exe.config
+C:\Users\Lamartine\source\repos\Escola\Negocio\obj\Debug\netstandard2.0\Negocio.csprojAssemblyReference.cache
+C:\Users\Lamartine\source\repos\Escola\Negocio\obj\Debug\netstandard2.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\Lamartine\source\repos\Escola\Negocio\obj\Debug\netstandard2.0\Negocio.AssemblyInfo.cs
+C:\Users\Lamartine\source\repos\Escola\Negocio\obj\Debug\netstandard2.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Lamartine\source\repos\Escola\Negocio\obj\Debug\netstandard2.0\Negocio.csproj.CopyComplete
+C:\Users\Lamartine\source\repos\Escola\Negocio\obj\Debug\netstandard2.0\Negocio.dll
+C:\Users\Lamartine\source\repos\Escola\Negocio\obj\Debug\netstandard2.0\Negocio.pdb

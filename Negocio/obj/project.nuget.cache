@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2F8ZHPGN4Myn3Aqkzo2KfLjF1xs0ToTekS8J33Cw26OOENY0fpeFOyL5WdnfoSnTPnyj4kB3NdYu1gNFysx/jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lamartine\\source\\repos\\Escola\\Negocio\\Negocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lamartine\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lamartine\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
